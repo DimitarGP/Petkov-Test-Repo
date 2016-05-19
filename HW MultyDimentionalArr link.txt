@@ -1,4 +1,4 @@
 https://github.com/ma3xDeveloper/TelerikSoftwareAcademy/tree/master/CSharp%20Part2%20-%20course%202013/02%20MultidimensionalArrays
-Home Work - Multydimentional arrays.............
+
 
 https://github.com/Innos/Soft-Uni-Homework/tree/master/CSharp%20Advanced%20Homework/03Homework%20MultiArrays%2C%20Sets%2CDictionaries/Homework%20MArrays%2CSets%2CDicts
